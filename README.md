@@ -1,1 +1,2 @@
-# Sample
+# Project
+Website about dogs.
